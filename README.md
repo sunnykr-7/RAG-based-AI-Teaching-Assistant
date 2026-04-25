@@ -1,8 +1,22 @@
 # RAG-based-AI-Teaching-Assistant
 
-Video Credit - Youtube CC 
+# HOW TO USE THIS RAG AI TEACHING ASSISTANT ON OUR OWN DATA
 
-It is the project developed by me - sunny kumar
 
-till then stay tuned
-The code will be uploaded shortly in 1-2 days.
+## Step 1 - Collect your videos
+Move all your video files to the videos folder
+
+## Step 2 - Convert to mp3
+Convert all the video files to mp3
+
+## Step 3 - Convert mp3 to json 
+Convert all the mp3 files to json
+
+## Step 4 - Convert the json files to Vectors
+We convert the json files to a dataframe with Embeddings and save it as a joblib pickle
+
+## Step 5 - Prompt generation and feeding to LLM
+
+Read the joblib file and load it into the memory. Then create a relevant prompt as per the user query and feed it to the LLM
+
+
