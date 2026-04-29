@@ -6,7 +6,7 @@
 ## Step 1 - Collect your videos
 Move all your video files to the videos folder.
 
-## Step 2 - Convert to mp3
+## Step 2 - Convert to mp3.
 Convert all the video files to mp3.
 
 ## Step 3 - Convert mp3 to json 
