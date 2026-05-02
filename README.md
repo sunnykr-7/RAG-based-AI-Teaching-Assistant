@@ -4,7 +4,7 @@
 
 
 ## Step 1 - Collect your videos
-Move all your video files to the videos folder.
+Move all your video files to the videos folder
 
 ## Step 2 - Convert to mp3.
 Convert all the video files to mp3
@@ -13,7 +13,7 @@ Convert all the video files to mp3
 Convert all the mp3 files to json
 
 ## Step 4 - Convert the json files to Vectors
-We convert the json files to a dataframe with Embeddings and save it as a joblib pickle.
+We convert the json files to a dataframe with Embeddings and save it as a joblib pickle
 
 ## Step 5 - Prompt generation and feeding to LLM
 
